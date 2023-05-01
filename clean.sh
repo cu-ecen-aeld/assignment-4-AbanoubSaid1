@@ -1,4 +1,4 @@
 #!/bin/bash
-//clean
+//clean make
 cd `dirname $0`/buildroot
 make distclean
